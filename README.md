@@ -1,4 +1,4 @@
-Maven Toys: Product Diversity Analysis
+"Maven Toys": Product Diversity Analysis in a Toy netchain
 
 Analysis: Evaluated profit margins & product diversity across all categories using SQL.
 
