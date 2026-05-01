@@ -8,4 +8,4 @@ Findings: Identified a lack of diversity in specific categories (e.g., Electroni
 
 Output 1: Built a Tableau dashboard visualizing product diversity in each category.
 
-Output 2: Professional presentation with a clear nerrative and focused actionable data-driven recommendations.
+Output 2: Professional presentation with a clear narrative and focused actionable data-driven recommendations.
