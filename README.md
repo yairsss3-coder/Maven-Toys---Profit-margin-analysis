@@ -12,6 +12,8 @@ Findings: Identified a lack of diversity in specific categories (e.g., Electroni
 
 
 
+
+
 **Output 2**: **Presentation** with a clear narrative and focused actionable data-driven recommendations.
 
 <img width="574" height="668" alt="image" src="https://github.com/user-attachments/assets/81314ecf-42ec-4c94-96ef-064c19586996" />
