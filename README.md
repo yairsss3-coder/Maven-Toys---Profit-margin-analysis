@@ -22,6 +22,8 @@ Findings: Identified a lack of diversity in specific categories (e.g., Electroni
 
 
 
+
+
 <img width="652" height="747" alt="image" src="https://github.com/user-attachments/assets/af30e17d-fc25-4635-bd8b-d0644d2407ce" />
 
 
@@ -29,7 +31,7 @@ Findings: Identified a lack of diversity in specific categories (e.g., Electroni
 
 
 
-<img width="574" height="668" alt="image" src="https://github.com/user-attachments/assets/81314ecf-42ec-4c94-96ef-064c19586996" />
+*********************************************8
 
 
 
