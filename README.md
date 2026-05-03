@@ -1,8 +1,8 @@
  **A Toy Chain sales analysis - untapped potential**
 
-"Maven Toys": Product Diversity Analysis in a Toy retailor.
+"Maven Toys": Exploring Product Diversity in a Toy retailor.
 
-Analysis: Evaluated profit margins & product diversity across all categories using SQL.
+Analysis: Evaluateing profit margins & product diversity across all categories using SQL.
 
 Tech Stack: Applied **CTEs**, **Window Functions**, and **Joins** to aggregate raw datasets.
 
@@ -16,6 +16,6 @@ Findings: Identified a lack of diversity in specific categories (e.g., Electroni
 
 
 
-**Output 2**: **Presentation** with a clear narrative and focused actionable data-driven recommendations.
+**Output 2**: **Clear short Presentation** with a coherent narrative translated to actionable data-driven recommendations.
 
 <img width="574" height="668" alt="image" src="https://github.com/user-attachments/assets/81314ecf-42ec-4c94-96ef-064c19586996" />
