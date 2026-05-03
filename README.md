@@ -1,4 +1,4 @@
- **A Toy Chain sales analysis - untapped potential analysis**
+ **A Toy Chain sales analysis - untapped potential**
 
 "Maven Toys": Product Diversity Analysis in a Toy retailor.
 
